@@ -1,5 +1,7 @@
 <h2 align="center"> Hi there, I am Ramil Nizamov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h2>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gityanizamovramil&theme=flat&title=Repositories,Commit,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **gityanizamovramil/gityanizamovramil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
