@@ -12,7 +12,7 @@ Hi,  I'm Ramil Nizamov, a young driven  Java developer from Kazan City in Tatars
 
 - https://github.com/gityanizamovramil/java-filmorate
 
-📫 You can reach me by e-mail: 
+📫 You can reach me by Telegram: @Ramil_FN 
 
 ⚡ Here are some git stats on my development activities:
 
