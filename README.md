@@ -120,7 +120,7 @@ I'm Ramil Nizamov, a young driven Java developer from Kazan City in Tatarstan.
 <div width="100%" align="center">
   <a align="left" href="https://github.com/gityanizamovramil/java-filmorate" title="FilmoRate">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gityanizamovramil&repo=java-filmorate&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/gityanizamovramil/java-tasktracker" title="Share It">
+  <a align="right" href="https://github.com/gityanizamovramil/java-tasktracker" title="TaskTracker">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gityanizamovramil&repo=java-tasktracker&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
