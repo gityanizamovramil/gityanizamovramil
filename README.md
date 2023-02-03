@@ -3,9 +3,31 @@
 Hi <img src="./assets/Hi.gif" height="22"/> Dear Guest!
 </h4>
 <br/>
-I'm Ramil Nizamov, a young driven Java developer from Kazan City in Tatarstan.
+<b>I'm Ramil Nizamov, a young driven Java developer from Kazan City in Tatarstan.</b>
+<p></p>
+<b>🔭 &nbsp;I am looking forward for an interesting job opportunities and  being glad for collaboration feedback to me.</b>
 
-🔭 &nbsp;I am looking forward for an interesting job opportunities and  being glad for collaboration feedback to me.
+🌱 &nbsp;**Here you can find some of my projects:**
+<br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/gityanizamovramil/java-explore-with-me" title="Explore With Me">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gityanizamovramil&repo=java-explore-with-me&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/gityanizamovramil/java-shareit" title="Share It">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gityanizamovramil&repo=java-shareit&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/gityanizamovramil/java-filmorate" title="FilmoRate">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gityanizamovramil&repo=java-filmorate&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/gityanizamovramil/java-tasktracker" title="TaskTracker">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gityanizamovramil&repo=java-tasktracker&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br><br><br><br><br>
+<h6 align="center">
+  <a href="https://github.com/gityanizamovramil?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h6>
+<br/>
+</details>
 
 <p></p>
 <a href="https://git.io/typing-svg">
@@ -107,28 +129,7 @@ I'm Ramil Nizamov, a young driven Java developer from Kazan City in Tatarstan.
 </table>
 </details>
 <p></p>
-<details><summary><b> 🌱 &nbsp;Projects:</b></summary>
->&nbsp;Here you can find some of my projects.
-<br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/gityanizamovramil/java-explore-with-me" title="Explore With Me">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gityanizamovramil&repo=java-explore-with-me&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/gityanizamovramil/java-shareit" title="Share It">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gityanizamovramil&repo=java-shareit&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/gityanizamovramil/java-filmorate" title="FilmoRate">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gityanizamovramil&repo=java-filmorate&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/gityanizamovramil/java-tasktracker" title="TaskTracker">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gityanizamovramil&repo=java-tasktracker&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br>
-<h6 align="center">
-  <a href="https://github.com/gityanizamovramil?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h6>
-<br/>
-</details>
+
 <p></p>
 <details><summary><b> ⚡ &nbsp;Git stats:</b></summary>
 >&nbsp;Here are some git statistics on my development activities:
