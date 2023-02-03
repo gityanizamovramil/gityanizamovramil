@@ -7,7 +7,7 @@ Hi <img src="./assets/Hi.gif" height="22"/> Dear Guest!
 <p></p>
 <b>🔭 &nbsp;I am looking forward for an interesting job opportunities and  being glad for collaboration feedback to me.</b>
 
-🌱 &nbsp;**Here you can find some of my projects:**
+<b>🌱 &nbsp;Here you can find some of my projects:</b>
 <br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/gityanizamovramil/java-explore-with-me" title="Explore With Me">
