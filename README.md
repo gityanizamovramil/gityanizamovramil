@@ -3,7 +3,7 @@
 Hi <img src="./assets/Hi.gif" height="22"/> Dear Guest!
 </h4>
 <br/>
-<b>I'm Ramil Nizamov, a young driven Java developer from Kazan City in Tatarstan.</b>
+<b>I'm Ramil Nizamov, a young driven Java developer from Kazan City in Tatarstan, currently living in Moscow.</b>
 <p></p>
 <b>🔭 &nbsp;I am looking forward for an interesting job opportunities and  being glad for collaboration feedback to me.</b>
 
